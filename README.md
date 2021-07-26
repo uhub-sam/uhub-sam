@@ -1,4 +1,4 @@
-- 👋 Hi, Sam
+- 👋 Hi, I'm Sam
 - 🌱 I don't have time to complete this right now
 
 <!---
